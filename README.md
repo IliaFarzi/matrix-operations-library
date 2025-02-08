@@ -1,7 +1,3 @@
-Here's a comprehensive `README.md` file for your matrix operations library, covering SDK features, decoupled logic, and example execution.
-
----
-
 # **Matrix Operations Library**
 
 A flexible and extensible C# SDK for performing matrix operations. This library supports matrix-to-matrix operations, scalar-to-matrix operations, and matrix properties like transposition and determinant calculation. The design follows SOLID principles, ensuring that the logic is decoupled from the implementation of algorithms, allowing for easy swapping or extending of functionality.
