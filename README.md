@@ -172,7 +172,3 @@ To add a new matrix operation:
 ## **License**
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
----
-
-Feel free to modify the README further to fit your exact project needs! Let me know if you need any additional customization. 🚀
